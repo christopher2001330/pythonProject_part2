@@ -21,6 +21,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "christopher2001330"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/christopher2001330/pythonProject_part2",
+    "accountId": "04f7861d-dcd6-4855-8b3c-1082f19def0c"
+  }
+}]]></component>
   <component name="MaliciousPackageCheckinHandlerState">
     <option name="packageCheck" value="true" />
   </component>
@@ -40,7 +52,9 @@
     "Python.Module 5.2.executor": "Run",
     "Python.module 5.3.executor": "Run",
     "Python.Атрибуты и методы объекта. Указатель на свой объект в методах.executor": "Run",
+    "Python.Класс object и метод __new__..executor": "Run",
     "Python.Классы и объекты.executor": "Run",
+    "Python.Различие атрибутов класса и экземпляра. Пространство имен класса..executor": "Run",
     "Python.Специальные методы классов.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -87,7 +101,23 @@
       <option name="project" value="LOCAL" />
       <updated>1726313907895</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="фдд">
+      <option name="closed" value="true" />
+      <created>1726315227425</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726315227425</updated>
+    </task>
+    <task id="LOCAL-00004" summary="фдд">
+      <option name="closed" value="true" />
+      <created>1726315229552</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726315229552</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
@@ -109,6 +139,11 @@
           <url>file://$PROJECT_DIR$/5.4 Перезагрузка операторов.py</url>
           <line>40</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Класс object и метод __new__..py</url>
+          <line>22</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
