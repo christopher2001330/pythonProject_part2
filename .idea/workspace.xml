@@ -21,18 +21,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "christopher2001330"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;christopher2001330&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/christopher2001330/pythonProject_part2",
-    "accountId": "04f7861d-dcd6-4855-8b3c-1082f19def0c"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/christopher2001330/pythonProject_part2&quot;,
+    &quot;accountId&quot;: &quot;04f7861d-dcd6-4855-8b3c-1082f19def0c&quot;
   }
-}]]></component>
+}</component>
   <component name="MaliciousPackageCheckinHandlerState">
     <option name="packageCheck" value="true" />
   </component>
@@ -47,36 +47,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.5.2Атрибуты и методы объекта. Указатель на свой объект в методах.executor": "Run",
-    "Python.5.4 Перезагрузка операторов.executor": "Run",
-    "Python.Module 5.1.executor": "Run",
-    "Python.Module 5.2.executor": "Run",
-    "Python.module 5.3.executor": "Run",
-    "Python.module 5.4.executor": "Run",
-    "Python.module 5.5.executor": "Run",
-    "Python.module 5_practise.executor": "Run",
-    "Python.module 6.1.executor": "Run",
-    "Python.Атрибуты и методы объекта. Указатель на свой объект в методах.executor": "Run",
-    "Python.Класс object и метод __new__..executor": "Run",
-    "Python.Классы и объекты.executor": "Run",
-    "Python.Различие атрибутов класса и экземпляра. Пространство имен класса..executor": "Run",
-    "Python.Специальные методы классов.executor": "Run",
-    "Python.Цели и задачи. Зачем нужно наследование.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "advanced.settings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.5.2Атрибуты и методы объекта. Указатель на свой объект в методах.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5.4 Перезагрузка операторов.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Module 5.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Module 5.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module 5.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module 5.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module 5.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module 5_practise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module 6.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Атрибуты и методы объекта. Указатель на свой объект в методах.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Класс object и метод __new__..executor&quot;: &quot;Run&quot;,
+    &quot;Python.Классы и объекты.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Различие атрибутов класса и экземпляра. Пространство имен класса..executor&quot;: &quot;Run&quot;,
+    &quot;Python.Специальные методы классов.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Цели и задачи. Зачем нужно наследование.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   },
-  "keyToStringList": {
-    "GitStage.ChangesTree.GroupingKeys": [
-      "directory",
-      "module",
-      "repository"
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.module 6.1">
     <configuration name="Цели и задачи. Зачем нужно наследование" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject_part2" />
@@ -127,6 +127,9 @@
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -260,7 +263,23 @@
       <option name="project" value="LOCAL" />
       <updated>1726335043569</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="фдд">
+      <option name="closed" value="true" />
+      <created>1726418381487</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1726418381487</updated>
+    </task>
+    <task id="LOCAL-00011" summary="фдд">
+      <option name="closed" value="true" />
+      <created>1726418384800</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1726418384800</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
