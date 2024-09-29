@@ -47,37 +47,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.5.2Атрибуты и методы объекта. Указатель на свой объект в методах.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5.4 Перезагрузка операторов.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Module 5.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Module 5.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module 5.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module 5.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module 5.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module 5_practise.executor&quot;: &quot;Run&quot;,
-    &quot;Python.module 6.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Атрибуты и методы объекта. Указатель на свой объект в методах.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Класс object и метод __new__..executor&quot;: &quot;Run&quot;,
-    &quot;Python.Классы и объекты.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Различие атрибутов класса и экземпляра. Пространство имен класса..executor&quot;: &quot;Run&quot;,
-    &quot;Python.Специальные методы классов.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Цели и задачи. Зачем нужно наследование.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.5.2Атрибуты и методы объекта. Указатель на свой объект в методах.executor": "Run",
+    "Python.5.4 Перезагрузка операторов.executor": "Run",
+    "Python.Module 5.1.executor": "Run",
+    "Python.Module 5.2.executor": "Run",
+    "Python.module 5.3.executor": "Run",
+    "Python.module 5.4.executor": "Run",
+    "Python.module 5.5.executor": "Run",
+    "Python.module 5_practise.executor": "Run",
+    "Python.module 6.1.executor": "Run",
+    "Python.module 6.2.executor": "Run",
+    "Python.module 6.3.executor": "Run",
+    "Python.Атрибуты и методы объекта. Указатель на свой объект в методах.executor": "Run",
+    "Python.Класс object и метод __new__..executor": "Run",
+    "Python.Классы и объекты.executor": "Run",
+    "Python.Множественное наследование. Метод Super.executor": "Run",
+    "Python.Различие атрибутов класса и экземпляра. Пространство имен класса..executor": "Run",
+    "Python.Специальные методы классов.executor": "Run",
+    "Python.Цели и задачи. Зачем нужно наследование.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "advanced.settings"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;,
-      &quot;module&quot;,
-      &quot;repository&quot;
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
     ]
   }
-}</component>
-  <component name="RunManager" selected="Python.module 6.2">
+}]]></component>
+  <component name="RunManager" selected="Python.module 6.3">
     <configuration name="Цели и задачи. Зачем нужно наследование" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject_part2" />
       <option name="ENV_FILES" value="" />
@@ -100,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="module 5.5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Множественное наследование. Метод Super" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject_part2" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -113,29 +116,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module 5.5.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="module 5_practise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject_part2" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module 5_practise.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Множественное наследование. Метод Super.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,13 +169,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="module 6.3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject_part2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module 6.3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.module 6.3" />
+        <item itemvalue="Python.Множественное наследование. Метод Super" />
         <item itemvalue="Python.module 6.2" />
         <item itemvalue="Python.module 6.1" />
         <item itemvalue="Python.Цели и задачи. Зачем нужно наследование" />
-        <item itemvalue="Python.module 5.5" />
-        <item itemvalue="Python.module 5_practise" />
       </list>
     </recent_temporary>
   </component>
@@ -302,7 +305,31 @@
       <option name="project" value="LOCAL" />
       <updated>1726418384800</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="фдд">
+      <option name="closed" value="true" />
+      <created>1726588155727</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1726588155727</updated>
+    </task>
+    <task id="LOCAL-00013" summary="фдд">
+      <option name="closed" value="true" />
+      <created>1726588410915</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1726588410915</updated>
+    </task>
+    <task id="LOCAL-00014" summary="фдд">
+      <option name="closed" value="true" />
+      <created>1726588413705</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1726588413705</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
