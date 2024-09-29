@@ -64,6 +64,8 @@
     "Python.module 7.1.executor": "Run",
     "Python.module 7.2.executor": "Run",
     "Python.module 7.3.executor": "Run",
+    "Python.module 7.4.executor": "Run",
+    "Python.module 7.5.executor": "Run",
     "Python.Атрибуты и методы объекта. Указатель на свой объект в методах.executor": "Run",
     "Python.Класс object и метод __new__..executor": "Run",
     "Python.Классы и объекты.executor": "Run",
@@ -84,29 +86,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Python.module 7.4">
-    <configuration name="module 6.4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonProject_part2" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module 6.4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.module 7.5">
     <configuration name="module 7.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject_part2" />
       <option name="ENV_FILES" value="" />
@@ -195,13 +175,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="module 7.5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject_part2" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module 7.5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.module 7.5" />
         <item itemvalue="Python.module 7.4" />
         <item itemvalue="Python.module 7.3" />
         <item itemvalue="Python.module 7.2" />
         <item itemvalue="Python.module 7.1" />
-        <item itemvalue="Python.module 6.4" />
       </list>
     </recent_temporary>
   </component>
@@ -413,7 +415,23 @@
       <option name="project" value="LOCAL" />
       <updated>1727619510136</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="f">
+      <option name="closed" value="true" />
+      <created>1727619708258</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1727619708258</updated>
+    </task>
+    <task id="LOCAL-00026" summary="f">
+      <option name="closed" value="true" />
+      <created>1727619709694</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1727619709694</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
