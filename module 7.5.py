@@ -24,4 +24,5 @@ for root, dirs, files in os.walk(directory):
 
         # Выводим информацию о файле
         print(
-            f'Обнаружен файл: {file}, Путь: {filepath}, Размер: {filesize} байт, Время изменения: {formatted_time}, Родительская директория: {parent_dir}')
+            f'Обнаружен файл: {file}, Путь: {filepath}, Размер: {filesize} байт, Время изменения: {formatted_time}, '
+            f'Родительская директория: {parent_dir}')
